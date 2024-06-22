@@ -6,3 +6,5 @@
 [Тестовый прогон тест-кейсов для мобильного приложения shopping list](https://github.com/user-attachments/files/15937519/Express.run.Ilgamova.pdf)
 
 [Отчеты о дефектах для мобильного приложения shopping list](https://docs.google.com/spreadsheets/d/1iYRONNvCB_6ZhsU0egzuugkE-9LwYgs3s24FDujLvuE/edit?gid=0#gid=0)
+
+[Отчет по результатам тестирования мобильного приложения shopping list]()
