@@ -7,4 +7,4 @@
 
 [Отчеты о дефектах для мобильного приложения shopping list](https://docs.google.com/spreadsheets/d/1iYRONNvCB_6ZhsU0egzuugkE-9LwYgs3s24FDujLvuE/edit?gid=0#gid=0)
 
-[Отчет по результатам тестирования мобильного приложения shopping list]()
+[Отчет по результатам тестирования мобильного приложения shopping list](https://docs.google.com/document/d/1oIEwkkSusOaniEcaK3HkdZbI-d4kJrgP/edit)
