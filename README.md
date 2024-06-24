@@ -8,3 +8,8 @@
 [Отчеты о дефектах для мобильного приложения shopping list](https://docs.google.com/spreadsheets/d/1iYRONNvCB_6ZhsU0egzuugkE-9LwYgs3s24FDujLvuE/edit?gid=0#gid=0)
 
 [Отчет по результатам тестирования мобильного приложения shopping list](https://docs.google.com/document/d/1oIEwkkSusOaniEcaK3HkdZbI-d4kJrgP/edit)
+
+
+[Удаление товара из корзины](https://photos.app.goo.gl/CBdsYrARp9zbvJKG7)  
+[Перенаправление на картинку](https://photos.app.goo.gl/8dNitftYgHkKJ8d27)  
+[Header user-agent](https://photos.app.goo.gl/NoLJryFsaR4vr7iz9)  
